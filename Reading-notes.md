@@ -1,3 +1,4 @@
+> ***It not about how good you are, it is about how good you want to be***
 # **summerization of Markdown**
 
 1. *It is a language that we can add images and create links*
