@@ -24,5 +24,5 @@
 1. Git traces its roots to the open source software project Linux kernel
 2. Developers of this project began using a DVCS called BitKeeper in 2002
 3. In 2005, many of these developers stopped using this DVCS due to tension between the Linux kernel community and the company behind BitKeeper’s and the eventual revocation of the DVCS’ gratis status 
-![alt https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiUcPt0GasiY_9F5A6ewX71gPPWDWcde7W9Q&usqp=CAU](image.jpg)
+![alt https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F6%2F62%2FGit-logo-orange.svg&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AGit-logo-orange.svg&tbnid=tEtR4jLJ-ros2M&vet=12ahUKEwiNuszxxPTwAhUV4uAKHW4jBboQMyhgegUIARDkAQ..i&docid=mHaCPiT8KJ8XKM&w=273&h=114&q=Git&hl=en&ved=2ahUKEwiNuszxxPTwAhUV4uAKHW4jBboQMyhgegUIARDkAQ](image.jpg)
 
