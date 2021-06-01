@@ -1,4 +1,4 @@
-# Secondarticle
+# Mindset:
 ## How to go from fixed to growth mindset?
 __Acknowledge and embrace imperfections__
 ~~Hiding from your weaknesses means you’ll never overcome them~~
