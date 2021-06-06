@@ -9,4 +9,5 @@
 |Reading-notes| [Reading-notes](https://basel-almousa.github.io/reading-notes/Reading-notes)|
 |Read03| [Read03](https://basel-almousa.github.io/reading-notes/raed03)|
 |Read04| [Read04](https://basel-almousa.github.io/reading-notes/read04)|
-|Read05| [Read05](https://basel-almousa.github.io/reading-notes/read05)||Read06| [Read06](https://basel-almousa.github.io/reading-notes/read06)|
+|Read05| [Read05](https://basel-almousa.github.io/reading-notes/read05)|
+|Read06| [Read06](https://basel-almousa.github.io/reading-notes/read06)|
