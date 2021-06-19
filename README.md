@@ -1,4 +1,4 @@
-**My name is Basel Almousa Iam 24 years old I studied Mechanical engineering at Eastern Meditranian University in Cyprus. So, I aim from this course to gain the maximum knowledge to be a vluable contributor to my society. Plus, I am so curious about both Python and JS languages**
+**My name is Basel Almousa Iam 24 years old I studied Mechanical engineering at Eastern Meditranian University in Cyprus. So, I aim from this course to gain the maximum knowledge to be a vluable contributor to my society. Plus, I am so curious about both Python and JS languages.**
 
 # **Tables of contents**
 ## Code 102 Reading Notes
@@ -15,8 +15,3 @@
 |Read07| [Read07](https://basel-almousa.github.io/reading-notes/read07)|
 
 
-## Code 201 Reading Notes
-
-| Topics   | example| 
-|-----------|-----------|
-|class-01| [class-01](https://basel-almousa.github.io/reading-notes/class-01)|
